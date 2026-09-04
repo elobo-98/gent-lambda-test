@@ -1,0 +1,5 @@
+apiVersion: gent.io/platform-context/v1alpha1
+environment: ${GENT_ENVIRONMENT}
+platforms:
+  lambda:
+    region: ${LAMBDA_REGION}
