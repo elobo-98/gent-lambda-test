@@ -17,7 +17,7 @@ artifacts:
   hello-lambda:
     type: files
     path: publish/hello-lambda
-    repository: aigent-energy/hello-lambda
+    repository: aigent/hello-lambda
 
 platforms:
   lambda:
